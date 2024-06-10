@@ -3,7 +3,7 @@
 
 <h2> About Me 🚀 </h2>
 
-- 💼 I'm a **Full Stack Developer based in India**, enthusiastic about creating innovative web applications.
+- 💼 I'm a **Full Stack Developer from India**, enthusiastic about creating innovative web applications.
 - 📖 I enjoy learning new technologies & frameworks to enhance my skill set.
 - 👨‍💻 Passionate about software engineering, problem-solving, and building scalable solutions.
 - 📚 Constantly exploring and refining my knowledge in software development.
