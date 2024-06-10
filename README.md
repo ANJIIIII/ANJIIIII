@@ -31,11 +31,10 @@
   <img alt="Anjli Mishra Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANJIIIII&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="250" height="200"/>
 </div>
 
-<h2> Contribution Graph 📈</h2>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ANJIIIII/ANJIIIII/A/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ANJIIIII/ANJIIIII/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com//ANJIIIII/ANJIIIII/blob/output/github-contribution-grid-snake.svg">
-</picture>
+<h2> Connect With Me</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/anjali-mishra-60a641224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/nance_001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nance_001" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97956667/189064074-96cb1508-075e-484c-b067-ee06b3cb8dca.png" alt="" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/__anjiiii_.003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
